@@ -1,8 +1,7 @@
-package pieces;
- 
+package pieces; 
 import java.util.Scanner;
- 
 import pieces.Piece;
+import pieces.Echequier;
  
 public class Test {
     public static void main(String[] args) {

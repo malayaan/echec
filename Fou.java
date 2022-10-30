@@ -10,7 +10,7 @@ public class Fou extends Piece {
  
  
     public void dessiner() {
-        if (estBlanc) {
+        if (super.estBlanc()) {
             System.out.print("\u2657");
         } else {
             System.out.print("\u265D");
